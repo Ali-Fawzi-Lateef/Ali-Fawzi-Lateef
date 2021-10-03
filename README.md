@@ -10,4 +10,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/ali-fawzi-lateef/ "Ali Fawzi Lateef")
 
-[Personal Website](https://kenpachi01011.github.io/ "Personal Website")
+[Personal Website / Portfolio](https://kenpachi01011.github.io/ "Personal Website")
