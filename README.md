@@ -9,3 +9,5 @@
 [Twitter](https://twitter.com/Ali_Fawzi_010 "Ali fawzi")
 
 [LinkedIn](https://www.linkedin.com/in/ali-fawzi-lateef/ "Ali Fawzi Lateef")
+
+[Personal Website](https://kenpachi01011.github.io/ "Personal Website")
