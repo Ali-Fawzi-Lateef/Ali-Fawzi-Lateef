@@ -2,7 +2,7 @@
 ### Hello there 👋
 * #### My Name is Ali i'm a Software Developer.
 * #### I relish problem-solving and implementing brand New amazing ideas.
-* #### the programming language that I'm currently focusing on right now is **JAVA** and I'm planning to try new technologies and other languages.
+* #### the programming language that I'm currently focusing on ,is **JAVA** with _Spring Framework_ and I'm planning to try new technologies and other languages.
 * #### i'm quite familiar with _C++_ and _Python_
 * #### Tech is my absolute favorite so learning something new in tech would never be a bad idea at all.
 ---
