@@ -14,6 +14,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenpachi01011&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Fawzi-Lateef&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kenpachi01011&theme=cobalt)  --> 
