@@ -1,4 +1,3 @@
-![X](https://user-images.githubusercontent.com/83194640/134569100-35e2e12a-7d2f-41ce-9d36-c8edda1cb7d9.png "Ali Lateef")
 ### Hello there 👋
 * #### My Name is Ali i'm a Software Developer.
 * #### I relish problem-solving and implementing brand New amazing ideas.
