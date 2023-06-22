@@ -1,8 +1,8 @@
 ### Hello there 👋
-* #### My Name is Ali i'm a Software Developer.
+* #### My Name is Ali I'm a Software Developer.
 * #### I relish problem-solving and implementing brand New amazing ideas.
-* #### I'm a Full-stack web developer<
-* #### i use: PHP Laravel for the server-side development and React.js for the Client-side development with tailwindCss to make a responsive web designs.
+* #### I'm a Full-stack web developer
+* #### I use PHP Laravel for the server-side development and React.js for the Client-side development with tailwindCss to make a responsive web design.
 * #### Tech is my absolute favorite so learning something new in tech would never be a bad idea at all.
 ---
 <a href="https://www.linkedin.com/in/ali-fawzi-lateef/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
