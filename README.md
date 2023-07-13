@@ -1,6 +1,6 @@
 ### Hello there 👋
 * #### My Name is Ali I'm a Software Developer.
-* #### I relish problem-solving and implementing brand New amazing ideas.
+* #### I relish problem-solving and implementing New amazing ideas.
 * #### I'm a Full-stack web developer
 * #### I use PHP Laravel for the server-side development and React.js for the Client-side development with tailwindCss to make a responsive web design.
 * #### Tech is my absolute favorite so learning something new in tech would never be a bad idea at all.
